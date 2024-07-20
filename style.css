@@ -431,7 +431,7 @@ a img.aligncenter {
 	color: #ffffff;
 	box-shadow: 0 4px 3px 0 rgba(5, 16, 44, .15);
 	border-radius: 10px;
-	background: #cdd51f;
+	background: #2271d1;
 }
 
 .header_style_01 .navbar-light .navbar-nav > li:hover a,
@@ -439,7 +439,7 @@ a img.aligncenter {
     color: #ffffff;
 	box-shadow: 0 4px 3px 0 rgba(5, 16, 44, .15);
 	border-radius: 10px;
-	background: #cdd51f;
+	background: #2271d1;
 }
 
 .header_style_01 .navbar-right > li {
@@ -477,7 +477,7 @@ li.social-links a {
 .navbar-light .navbar-toggler {
 	padding: 10px 8px 8px 8px;
 	border-radius: 0px;
-	border-color: #cdd51f;
+	border-color: #2271d1;
 	float: right;
 	margin-top: 12px;
 }
@@ -561,7 +561,7 @@ li.social-links a {
 }
 
 .slider-wrapper .owl-nav .owl-prev, .slider-wrapper .owl-nav .owl-next {
-    background: #cdd51f;
+    background: #2271d1;
     height: 60px;
     top: 50%;
     transform: translateY(-50%);
@@ -657,7 +657,7 @@ li.social-links a {
     width: 100%;
     height: 100%;
     display: block;
-    background: #cdd51f;
+    background: #2271d1;
     position: absolute;  
     left: 0%;
     opacity: 1;
@@ -969,7 +969,7 @@ li.social-links a {
 }
 
 .da-thumbs .pitem a div i {
-    background-color: #cdd51f;
+    background-color: #2271d1;
     position: absolute;
     color: #ffffff !important;
     bottom: 0;
@@ -1010,7 +1010,7 @@ li.social-links a {
     padding: 30px;
     position: relative;
     background: #393939;
-    border: 4px solid #cdd51f;
+    border: 4px solid #2271d1;
 	-webkit-border-radius: 10px;
 	-moz-border-radius: 10px;
 	border-radius: 10px;
@@ -1379,7 +1379,7 @@ li.social-links a {
     padding-top: 10px;
     font-size: 19px;
     font-style: normal;
-    color: #cdd51f;
+    color: #2271d1;
     padding-bottom: 0;
 }
 
@@ -1414,7 +1414,7 @@ li.social-links a {
 	font-size: 16px;
 }
 .message-box ul li i{
-	color: #cdd51f;
+	color: #2271d1;
 	font-size: 24px;
 	padding-right: 10px;
 }
@@ -1443,7 +1443,7 @@ li.social-links a {
 }
 
 .hoverbutton {
-    background-color: #cdd51f;
+    background-color: #2271d1;
     position: absolute;
     color: #ffffff !important;
     top: 0;
@@ -1628,7 +1628,7 @@ hr.invis1 {
 
 .customwidget li i {
     margin-right: 5px;
-	color: #cdd51f;
+	color: #2271d1;
 }
 
 .customwidget li {
@@ -1723,7 +1723,7 @@ hr.invis1 {
     border-radius: 10px;
     font-size: 26px;
 	color: #ffffff;
-    background-color: #cdd51f;
+    background-color: #2271d1;
     margin: 0 auto 22px;
     position: relative;
     text-align: center;
@@ -2527,7 +2527,7 @@ select.mobile-device {
 }
 
 .dmtop:hover {
-	background-color: #cdd51f;
+	background-color: #2271d1;
 }
 
 .icon_wrap {
@@ -2546,7 +2546,7 @@ select.mobile-device {
 .stat-wrap h3 {
     font-size: 22px;
     font-weight: 600;
-    color: #cdd51f;
+    color: #2271d1;
     margin: 0 !important;
     padding: 0 !important;
 }
@@ -2593,7 +2593,7 @@ select.mobile-device {
     right: 0;
     bottom: 0;
     left: 0;
-    background: #cdd51f;
+    background: #2271d1;
     z-index: 11000;
     position: fixed;
     display: block;
@@ -3056,9 +3056,9 @@ select.mobile-device {
 .btn-light {
     padding: 13px 40px;
     font-size: 18px;
-    border: 2px solid #cdd51f;
+    border: 2px solid #2271d1;
     color: #ffffff;
-    background-color: #cdd51f;
+    background-color: #2271d1;
 }
 
 .btn-dark {
