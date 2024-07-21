@@ -41,7 +41,7 @@
 @import url(css/icomoon.css);
 @import url(css/prettyPhoto.css);
 @import url(css/owl.carousel.css);
-@import url(css/font-awesome.min.css);
+@import url(css/font-awesome.min2.css);
 
 /*------------------------------------------------------------------
     SKELETON
@@ -325,7 +325,7 @@ a img.aligncenter {
 	background: #393939;
 }
 .left-top{
-	padding: 3px 0px; 
+	padding: 3px 0px;
 	float: right;
 }
 .email-box{
@@ -416,7 +416,7 @@ a img.aligncenter {
     border-radius: 0;
     color: #ffffff;
     font-size: 16px;
-    font-style: normal;    
+    font-style: normal;
     text-transform: capitalize;
     background-color: transparent;
 }
@@ -465,7 +465,7 @@ li.social-links a {
 }
 
 .navbar-nav li {
-    position: relative;	
+    position: relative;
 }
 
 .navbar-nav span {
@@ -498,7 +498,7 @@ li.social-links a {
 -------------------------------------------------------------------*/
 
 .slider-bg-one {
-    background-image: url("uploads/slider_01.jpg");
+    background-image: url("https://storage.kun.uz/source/1/Y8b8vUVagkV0R2n2c4MKuhOr6waDtbuH.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -623,7 +623,7 @@ li.social-links a {
 }
 
 /* Btn 11  */
-.btn11{    
+.btn11{
     padding:10px 60px;
     margin: 0 10px;
     display: inline-block;
@@ -658,7 +658,7 @@ li.social-links a {
     height: 100%;
     display: block;
     background: #2271d1;
-    position: absolute;  
+    position: absolute;
     left: 0%;
     opacity: 1;
     top: 0;
@@ -667,7 +667,7 @@ li.social-links a {
        -moz-transition: all .65s cubic-bezier(0.77, 0, 0.175, 1);
          -o-transition: all .65s cubic-bezier(0.77, 0, 0.175, 1);
             transition: all .65s cubic-bezier(0.77, 0, 0.175, 1);
-  } 
+  }
 
 .btn11::after {
     content: '';
@@ -2464,7 +2464,7 @@ select.mobile-device {
 
 
 .cont-btn{
-	
+
 }
 .cont-btn button{
 	border: none;
@@ -2622,7 +2622,7 @@ select.mobile-device {
 
 
 .loader {
-  
+
   position: absolute;
     margin: 0 auto;
     left: 1%;
@@ -3341,7 +3341,7 @@ select.mobile-device {
     transition: all 0.5s ease 0s;
 }
 .pricingTable:hover .pricing-content:before{ background: #cdd51f; }
-.pricingTable .pricingTable-signup{  
+.pricingTable .pricingTable-signup{
 	border: 1px solid #cdd51f;
     color: #043565;
 	top: 0;
