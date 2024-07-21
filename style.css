@@ -3414,3 +3414,9 @@ select.mobile-device {
 .navbar-brand img{
     width: 90px;
 }
+.post-media img {
+    height: 200px;
+}
+.service-widget{
+    margin-bottom: 30px;
+}
