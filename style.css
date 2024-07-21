@@ -3420,3 +3420,32 @@ select.mobile-device {
 .service-widget{
     margin-bottom: 30px;
 }
+.btn11 {
+    padding: 9px 22px;
+    margin: 0 10px;
+    display: inline-block;
+    text-decoration: none;
+    font-family: 'Rubik', sans-serif;
+   
+    letter-spacing: 1px;
+    color: #fff;
+    cursor: hand;
+    text-align: center;
+    text-transform: capitalize;
+    border-radius: 0px;
+    position: relative;
+    border-radius: 10px;
+    overflow: hidden !important;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+    background: transparent !important;
+}
+
+.cont-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
